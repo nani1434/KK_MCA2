@@ -22,7 +22,7 @@
             android:icon="@drawable/library"
             android:title="Library" />
         <item
-            android:id="@+id/Lab"
+            android:id="@+id/lab"
             android:icon="@drawable/clab"
             android:title="Labs" />
         <item
